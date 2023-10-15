@@ -1,0 +1,6 @@
+[submodule "src/Libs/LMath"]
+	path = src/Libs/LMath
+	url = https://github.com/LewisSaber/LMath.git
+[submodule "src/Libs/LUI"]
+	path = src/Libs/LUI
+	url = https://github.com/LewisSaber/LUI.git
